@@ -1,0 +1,7 @@
+Class
+
+Game: gameId, player1, player2, status, board, winner
+GamePlay: type, coordinateX, coordinateY, gameId
+GameStatus: NEW, IN_PROGRESS, FINNISHED
+Player: login
+TicToe: X (1), O (2)
